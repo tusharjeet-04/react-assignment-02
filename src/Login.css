@@ -1,0 +1,114 @@
+
+.login-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.form{
+    border: 1px none black;
+    width: 350px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column
+}
+.Email{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+.forget{
+    color: blue;
+    border: 0px;
+    margin-top: 5px;
+}
+.button{
+    background-color: blue;
+    width: 300px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 15px
+}
+.login{
+    color: white;
+    font-size: large;
+}
+.text{
+    font-size: medium;
+}
+.sign{
+    color: blue;
+    border: 0px;
+    font-size: medium;
+}
+.Signup{
+    margin-top: 15px;
+}
+.facebook{
+    background-color: rgb(87, 87, 190);
+    width: 300px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+   
+}
+
+.facebookimg{
+    background-image: url(./assets/353422_facebook_logo_icon.png);
+    background-position: center;
+    background-size: cover;
+    height: 30px;
+    width: 35px;
+}
+.facebooktext{
+    background-color:rgb(87, 87, 190);
+    border: 0px;
+    color: white;
+    font-size: medium;
+}
+.google{
+    background-color: rgb(87, 87, 190);
+    width: 300px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+   
+}
+
+.googleimg{
+    background-image: url(./assets/1298745_google_brand_branding_logo_network_icon.png);
+    background-position: center;
+    background-size: cover;
+    height: 25px;
+    width: 25px;
+    margin-top: 2px;
+}
+.googletext{
+    background-color: black;
+    border: 0px;
+    color: white;
+    font-size: medium;
+}
+  
+h3{
+    margin-top: 20px;
+}
+

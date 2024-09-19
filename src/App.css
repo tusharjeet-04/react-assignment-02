@@ -1,0 +1,15 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  background-image: url(./assets/5166950.jpg);
+}
+.main{
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
